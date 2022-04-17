@@ -35,5 +35,5 @@ echo "No Main"
 # main
 
 # sudo apt install feh
-sudo apt install fonts-font-awesome neofetch
+sudo apt install fonts-font-awesome neofetch fonts-dejavu
 
