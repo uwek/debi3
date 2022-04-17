@@ -34,6 +34,6 @@ echo "No Main"
 
 # main
 
-git config --global user.email "uwe.kallmeyer@gmail.com"
-git config --global user.name "Uwe Kallmeyer"
+# sudo apt install feh
+sudo apt install fonts-font-awesome neofetch
 
